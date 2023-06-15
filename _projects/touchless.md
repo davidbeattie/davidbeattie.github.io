@@ -17,9 +17,11 @@ importance: 1
 
 With [Orestis Georgiou](https://www.orestisgeorgiou.com), [William Frier](https://scholar.google.co.uk/citations?user=xFWd6ZoAAAAJ&hl=en), [Rafa Morales](https://scholar.google.co.uk/citations?hl=en&user=ejb9K1MAAAAJ), and [Dario Pittera](https://scholar.google.co.uk/citations?user=p-3YZLgAAAAJ&hl=en).
 
->This project has just commenced where Ultraleap has partnered with academics from [UCL](https://www.ucl.ac.uk), [University of Copenhagen](https://www.ku.dk/english), and [UpnaLab](https://www.unavarra.es/home), plus industry partners [SoftServe](https://www.softserve.com) and [Crowdhelix](https://www.crowdhelix.com). This will be a 4 year project that seeks develop the next generation of tactile technologies using neurocognitive models of touch and machine learning methods to produce adaptive and affective tactile experiences. 
+>This 4-year R&D project is funded by the EU H2020 program. Motivated by the rise of social media and the absence of touch, our team of experts from 3 universities and 3 industry partners is developing the next-generation of TOUCHLESS haptic technologies. Our ambition is to enable novel social experiences through touch.
 
-I'm really excited about the myriad of potential outcomes from this research. There will be some great opporunities to discover new understandings of tactile perception, and how these can be used to create more immersive interactions with digital information.
+Our sense of touch enables us to understand our environment but also serves emotional purposes. For example, it provides information (surfaces, textures), it warns us (heat, thorns), it soothes and bonds us (caressing, hugging). Yet, current online and digital interactions make limited use of our sense of touch, often because most haptic technologies require us to wear or hold something, while their capacity to deliver rich tactile sensations is limited compared to how we naturally apply our touch sense in our offline physical and social interactions. Using novel neurocognitive models and AI frameworks, our aim is to imbue our novel TOUCHLESS haptic technologies with the ability to affect and enrich our online social interactions. 
+
+Partners include [UCL](https://www.ucl.ac.uk), [University of Copenhagen](https://www.ku.dk/english), and [UpnaLab](https://www.unavarra.es/home), plus industry partners [SoftServe](https://www.softserve.com) and [Crowdhelix](https://www.crowdhelix.com).
 
 Some of the key aspects this work will investigate are:
 
